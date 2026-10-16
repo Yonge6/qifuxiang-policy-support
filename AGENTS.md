@@ -107,3 +107,5 @@ When any text-entry control loses focus, dismiss the simulated keyboard. If the 
 - 补贴商品标题前增加红橙色“百亿补贴”小标，首页与补贴列表复用同一商品卡片呈现。
 
 - 商品标题前补贴小标使用与 banner 一致的 imagegen 四字图片字标，商品标题加粗。
+
+- 2026-10-16 对照版本：百亿补贴横幅中的“企业服务”改为“政策扶持”；发布到独立仓库 qifuxiang-policy-support，保留原仓库和原站点。
